@@ -1,0 +1,16 @@
+# Virtual Environment
+movie_recommender_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector databases
+movie_vector_db/
+movie_vectors/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
